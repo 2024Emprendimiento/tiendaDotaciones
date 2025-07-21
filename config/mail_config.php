@@ -7,20 +7,20 @@ return [
     'host' => 'smtp.gmail.com',
 
     // Correo electrónico desde el que se enviarán los correos (debe estar autenticado)
-    'username' => '2025developertest@gmail.com',
+    'username' => '',
 
     // Contraseña o clave de aplicación generada desde la configuración de seguridad de Gmail
     
-    'password' => 'ztuxpilrisscxxqc',
+    'password' => '',
 
     // Dirección de correo que aparecerá como remitente del mensaje o el correo de la empresa:
-    'from_email' => '2025developertest@gmail.com',
+    'from_email' => '',
 
     // Nombre que aparecerá como remitente (junto al correo)
-    'from_name' => 'DotacionesJR',
+    'from_name' => '',
 
     // Puerto SMTP que se utilizará: 587 para STARTTLS o 465 para SSL
-    'port' => 587,
+    'port' => ,
 
     // Tipo de cifrado para la conexión: 'tls' (STARTTLS) o 'ssl' (TLS implícito)
     'secure' => 'tls',
