@@ -1,8 +1,8 @@
 <?php
 class Database {
     private static $host = 'localhost';
-    private static $dbName = 'db_dotaciones_jr';
-    private static $username = 'root';
+    private static $dbName = '';
+    private static $username = '';
     private static $password = '';
 
     public static function connect() {
